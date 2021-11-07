@@ -14,7 +14,7 @@ Me llamo **David**, tengo **17 años** y soy desarrollador de bot de discord, de
 
 ## ¿Por donde podria contactarte?
 
-- Mi Discord: [zLowy#9218(https://discord.gg/qPefwTj3nS)
+- Mi Discord: [zLowy#9218](https://discord.gg/qPefwTj3nS)
 - Mi servidor de Discord: https://discord.gg/qPefwTj3nS
 - Mi Email de Trabajo: zlowyg@gmail.com
 
